@@ -1,56 +1,56 @@
-
+[
   {
     "name": "杰帕德",
     "pinyin": "jiepade",
-    "description": "银鬃铁卫的统领，性格严谨而忠诚，责任感极强。",
-    "image": "https://cluterhuke.github.io/star-rail-characters/assets/jiepade.JPG"
+    "description": "贝洛伯格银鬃铁卫的统领，责任感极强，意志坚定。",
+    "image": "https://cluterhuke.github.io/star-rail-characters/assets/杰帕德.JPG"
   },
   {
     "name": "彦卿",
     "pinyin": "yanqing",
-    "description": "仙舟云骑的少年天才剑士，剑术高超，心性冷静。",
-    "image": "https://cluterhuke.github.io/star-rail-characters/assets/yanqing.JPG"
+    "description": "仙舟「罗浮」的云骑将领，剑术高超，冰冷寡言。",
+    "image": "https://cluterhuke.github.io/star-rail-characters/assets/彦卿.JPG"
   },
   {
     "name": "虎克",
     "pinyin": "huke",
-    "description": "“地火”中的小小头目，童真与勇气并存。",
-    "image": "https://cluterhuke.github.io/star-rail-characters/assets/huke.JPG"
+    "description": "煤矿帮的小小头目，性格直率，是孩子们的领袖。",
+    "image": "https://cluterhuke.github.io/star-rail-characters/assets/虎克.JPG"
   },
   {
     "name": "姬子",
     "pinyin": "jizi",
-    "description": "星穹列车成员，拥有丰富阅历的科学家，探索未知。",
-    "image": "https://cluterhuke.github.io/star-rail-characters/assets/jizi.JPG"
+    "description": "星穹列车的领航员，成熟睿智，热爱探索宇宙的奥秘。",
+    "image": "https://cluterhuke.github.io/star-rail-characters/assets/姬子.JPG"
   },
   {
     "name": "瓦尔特·杨",
     "pinyin": "waerteyang",
-    "description": "老练睿智的前辈，星穹列车的指挥者之一。",
-    "image": "https://cluterhuke.github.io/star-rail-characters/assets/waerteyang.JPG"
+    "description": "拥有操控重力的力量，是列车组中深谋远虑的智者。",
+    "image": "https://cluterhuke.github.io/star-rail-characters/assets/瓦尔特·杨.JPG"
   },
   {
     "name": "克拉拉",
     "pinyin": "kelala",
-    "description": "柔弱却坚强的少女，与机械伙伴希露瓦并肩作战。",
-    "image": "https://cluterhuke.github.io/star-rail-characters/assets/kelala.JPG"
+    "description": "由机器人「希尔」抚养长大，天真善良，富有同理心。",
+    "image": "https://cluterhuke.github.io/star-rail-characters/assets/克拉拉.JPG"
   },
   {
     "name": "布洛妮娅",
     "pinyin": "boluoniya",
-    "description": "贝洛伯格的未来领袖，冷静果断，拥有卓越指挥能力。",
-    "image": "https://cluterhuke.github.io/star-rail-characters/assets/boluoniya.JPG"
+    "description": "贝洛伯格的大将，政治天赋出众，充满理想。",
+    "image": "https://cluterhuke.github.io/star-rail-characters/assets/布洛妮娅.JPG"
   },
   {
     "name": "希儿",
     "pinyin": "xier",
-    "description": "“地火”成员，性格坚韧，战斗风格迅猛果断。",
-    "image": "https://cluterhuke.github.io/star-rail-characters/assets/xier.JPG"
+    "description": "在贫民窟长大的战士，果断、强势，有一颗温柔的心。",
+    "image": "https://cluterhuke.github.io/star-rail-characters/assets/希儿.JPG"
   },
   {
     "name": "白露",
     "pinyin": "bailu",
-    "description": "罗浮药王秘传弟子，拥有治愈之力，憨态可掬。",
-    "image": "https://cluterhuke.github.io/star-rail-characters/assets/bailu.JPG"
+    "description": "仙舟医疗机构「丹恒」的天才少女，擅长治愈之术。",
+    "image": "https://cluterhuke.github.io/star-rail-characters/assets/白露.JPG"
   }
 ]
